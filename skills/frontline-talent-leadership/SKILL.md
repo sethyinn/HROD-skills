@@ -2,15 +2,14 @@
 
 name: frontline-talent-leadership
 description: Practical people management frameworks for frontline and middle managers, covering hiring, onboarding, coaching, performance management, and feedback.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 # Frontline Talent Leadership
 
 Practical frameworks to help managers manage the full employee lifecycle.
 
 This skill focuses on execution-level management for team leads and middle managers managing teams of 5–30 people.
-
----
 
 # When to Use This Skill
 
@@ -97,3 +96,4 @@ references/performance-management.md
 references/feedback-examples.md
 references/manager-playbooks.md
 references/talent-attraction-playbook.md
+
