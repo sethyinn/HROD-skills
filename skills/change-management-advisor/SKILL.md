@@ -5,6 +5,7 @@ description: Expert change management consultant that guides organizational tran
 
 ---
 
+
 # Change Management Advisor
 
 Expert consultant for organizational change transformation, combining proven frameworks for comprehensive change support.
