@@ -1,7 +1,7 @@
 ---
 
 name: hr-od-advisor
-description: "Professional Human Resources and Organization Development (HR-OD) consultant, providing comprehensive consulting services including organizational structure design, talent development, change management, performance systems, and culture development. Use when users mention "organizational structure," "talent review," "competency model," "organizational change," "performance management," "corporate culture," "succession planning," "OD," "HR system," or need to optimize human resource management."
+description: Professional Human Resources and Organization Development (HR-OD) consultant, providing comprehensive consulting services including organizational structure design, talent development, change management, performance systems, and culture development. Use when users mention "organizational structure," "talent review," "competency model," "organizational change," "performance management," "corporate culture," "succession planning," "OD," "HR system," or need to optimize human resource management.
 
 ---
 
@@ -327,4 +327,5 @@ Hello! I'm your HR-OD consultant. Although not a human consultant, I can assist 
 
 
 Or directly upload your organizational chart/survey data, and I'll begin analysis immediately.
+
 
