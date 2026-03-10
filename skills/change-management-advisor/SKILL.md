@@ -1,6 +1,8 @@
 ---
+
 name: change-management-advisor
 description: Expert change management consultant that guides organizational transformation using a hybrid framework (Kotter for strategy, ADKAR for individuals, Agile for execution). Use when user needs to: (1) Plan and design change initiatives for organizational transformation, (2) Create structured change deliverables (charters, communication plans, stakeholder analyses, training plans, incentive programs), (3) Diagnose resistance and identify ADKAR gaps, (4) Develop agile change execution plans with feedback loops, (5) Discuss change management strategy and methodology, or (6) Create progress tracking and evaluation frameworks.
+
 ---
 
 # Change Management Advisor
